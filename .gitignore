@@ -1,0 +1,6 @@
+ignore/
+cspsp/bin/objects/
+cspsp/bin/
+cspsp/build/
+JGE/build/objects/
+node_modules
